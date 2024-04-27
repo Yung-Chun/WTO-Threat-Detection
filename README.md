@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project employs OpenAI's GPT-4 model to analyze publications on the World Trade Organization (WTO) website, focusing on detecting any implications of a potential threat to US sovereignty. By processing textual content from the WTO publications, the model assesses the sentiment and implications of these documents concerning the United States.
+This repository employs OpenAI's GPT-4 model to analyze publications on the World Trade Organization (WTO) website, focusing on detecting any implications of a potential threat to US sovereignty. By processing textual content from the WTO publications, the model assesses the sentiment and implications of these documents concerning the United States.
 
 ## Objective
 
-The primary goal is to understand the stance of WTO publications regarding the United States. This analysis aims to detect sentiments that might imply dissatisfaction, complaints, criticism, or suggest the changes within the United States. By systematically evaluating the content, we seek to gain insights into how the WTO's communications might reflect on US policies and global standing.
+The primary goal is to understand the stance of WTO publications regarding the United States. This analysis aims to detect dissatisfaction, complaints, criticism, from the international entities, or suggest the changes within the United States. By systematically evaluating the content, we seek to gain insights into how the WTO's communications might reflect on US policies and global standing.
 
 ## Methodology
 
